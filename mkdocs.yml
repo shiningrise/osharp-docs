@@ -12,7 +12,7 @@ edit_uri: "https://github.com/i66soft/osharp-docs/edit/master/docs"
 dev_addr: 127.0.0.1:8000
 
 # Copyright
-copyright: 'Copyright &copy; 2014 - 2019 OSHARP.ORG'
+copyright: 'Copyright &copy; 2014 - 2019 OSHARP.ORG &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://wxy-blog.oss-cn-hangzhou.aliyuncs.com/icp.png" style="width: 18px;height: 18px; margin-right: 4px;" />浙ICP备12047409号-10'
 
 theme:
   name: 'material'
